@@ -1,0 +1,3 @@
+#!/system/bin/sh
+
+echo "2560,4096,5120,19200,19456,24320" > /sys/module/lowmemorykiller/parameters/minfree

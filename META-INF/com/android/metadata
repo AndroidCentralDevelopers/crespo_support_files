@@ -1,0 +1,3 @@
+post-build=Android/full_crespo/crespo:4.0.3/IML74K/eng.gbhil.20111220.022340:userdebug/test-keys
+post-timestamp=1324365991
+pre-device=crespo
